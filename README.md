@@ -20,7 +20,7 @@ This is a simple PHP login and signup system. Follow these instructions to set i
 ### 2. Clone or Download the Repository
 
 1. Visit the **GitHub repository** where the PHP login and signup form code is hosted.  
-   ([Use the link you have for the GitHub repository.](https://github.com/eiirikr/signup_login))
+   ([Download as ZIP file](https://github.com/eiirikr/signup_login))
 
 2. **Download the repository as a ZIP file**:
    - Click on the **Code** button on the repository page.
