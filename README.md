@@ -70,3 +70,5 @@ You can now register new users using the signup form. After registration, you ca
 If you face any issues, make sure that the Apache and MySQL services are running in the XAMPP Control Panel and that you have the correct file paths.
 
 Enjoy using your PHP login and signup form!
+
+Note: Delete this README.md file before submitting to your professors!
