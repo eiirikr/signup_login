@@ -3,7 +3,7 @@ START TRANSACTION;
 SET time_zone = "+00:00";
 
 --
--- Database: `login_register`
+-- Database: `signup_login`
 --
 
 -- --------------------------------------------------------

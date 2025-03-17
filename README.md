@@ -29,7 +29,7 @@ This is a simple PHP login and signup system. Follow these instructions to set i
 
 4. Move the extracted folder to the `htdocs` directory of XAMPP:
    - The default path for `htdocs` is `C:\xampp\htdocs` on Windows.
-   - Move the extracted folder (e.g., `login-register`) into this directory.
+   - Move the extracted folder (e.g., `signup_login`) into this directory.
 
 ### 3. Set Up the Database in phpMyAdmin
 
@@ -41,13 +41,13 @@ This is a simple PHP login and signup system. Follow these instructions to set i
 3. Once you're in **phpMyAdmin**, follow these steps:
 
    - Click on **Databases** in the top menu.
-   - Under **Create database**, enter the name `login_register` and click **Create**.
+   - Under **Create database**, enter the name `signup_login` and click **Create**.
 
 4. Now, import the SQL file:
 
-   - With the `login_register` database selected, click the **Import** tab.
+   - With the `signup_login` database selected, click the **Import** tab.
    - In the **File to Import** section, click **Choose File**.
-   - Navigate to `C:\xampp\htdocs\login-register` (or the directory where you extracted the files) and select the `login_register.sql` file.
+   - Navigate to `C:\xampp\htdocs\signup_login` (or the directory where you extracted the files) and select the `signup_login.sql` file.
    - Click **Go** to import the database.
 
 5. If everything is green and shows **"Import has been successfully finished"**, you're all set with the database.
@@ -57,7 +57,7 @@ This is a simple PHP login and signup system. Follow these instructions to set i
 1. Open a new tab in your browser.
 
 2. Go to the following URL:  
-   [http://localhost/login-register/signup.php](http://localhost/login-register/signup.php)
+   [http://localhost/signup_login/signup.php](http://localhost/signup_login/signup.php)
 
 3. The PHP login and signup form should now be running successfully!
 
